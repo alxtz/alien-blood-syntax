@@ -1,0 +1,15 @@
+{
+  "name": "alien-blood-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The alien blood theme from iTerm2",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/alxtz/alien-blood-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
